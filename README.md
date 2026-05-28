@@ -1,9 +1,9 @@
 # Navigating High-Dimensional Complex Systems with Black-Box Nature via Explainable Learn-then-Optimize
 
-Authors: Ziyuan Gu<sup>†</sup>, Bowei Ru<sup>†</sup>, Yetao Hu, Jinbiao Huo, Mingze Xu, Yang Cao, Zhiyuan Liu<sup>*</sup>, Yuming Guo<sup>**</sup>
+Authors: Ziyuan Gu<sup>&dagger;</sup>, Bowei Ru<sup>&dagger;</sup>, Yetao Hu, Jinbiao Huo, Mingze Xu, Yang Cao, Zhiyuan Liu<sup>&#42;</sup>, Yuming Guo<sup>&#42;</sup>
 
-<sup>†</sup> equal contribution  
-<sup>*</sup> corresponding author
+<sup>&dagger;</sup> equal contribution  
+<sup>&#42;</sup> corresponding author
 
 This repository hosts the full implementation and experimental scripts that accompany the manuscript
 "Navigating High-Dimensional Complex Systems with Black-Box Nature via Explainable Learn-then-Optimize".
@@ -15,7 +15,7 @@ space to enable interpretable, accelerated system navigation.
 
 ---
 
-![Fig. 1](F:\JinJixia\Code\Screening-Optimization\GitHub\Fig1.svg)
+![Fig. 1](./Fig1.svg)
 
 The framework comprises four logically coupled stages, summarized below (corresponding to panels a-d of
 Fig. 1 in the main text).
@@ -86,7 +86,7 @@ XLO is comprehensively evaluated on **seven complex systems** spanning an analyt
 function, agent-based spatiotemporal simulations, and physics-driven engineering designs. Numbers in
 parentheses below indicate the dimensionality of each system submodule.
 
-![Fig. 2](F:\JinJixia\Code\Screening-Optimization\GitHub\Fig2.svg)
+![Fig. 2](./Fig2.svg)
 
 ### Common subfolder layout of each complex system
 
