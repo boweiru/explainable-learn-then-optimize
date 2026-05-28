@@ -7,7 +7,7 @@ This folder provides the input files and Python wrapper used to run the isolated
   
 The CitySim dataset provided high-resolution vehicle trajectory data and a road network base map compatible with the microscopic traffic simulator SUMO. The 900-second simulation spans 17:40–17:55 on an evening peak hour and comprises about 1,300 vehicles. Vehicle trajectories were mapped to SUMO’s network using the sumolib library, assigning edges and positions based on geospatial coordinates. From these matches, we generated a trips file containing route information, departure and arrival times, then computed shortest paths with the duarouter tool. Lane-area and induction-loop detectors were deployed, with a 185-second aggregation interval matching the traffic signal cycle. Ground-truth metrics (flow, speed, travel time, and queue length) were compared to simulation outputs using WMAPE, yielding a 4-dimensional objective space. Five parameter families were considered—vehicle characteristics, speed distribution, car-following, lane-changing and junction model. Owing to the negligible share of trucks, we retain only the last four for passenger cars, resulting in 29 decision variables. The Intelligent Driver Model and the default LC2013 model in SUMO were adopted for car-following and lane-changing, respectively.  
   
-![Extended Data Fig. 1](F:\JinJixia\Code\Screening-Optimization\GitHub\Junction\Running\SupFig6.svg)
+![Extended Data Fig. 1](./SupFig6.svg)
 
 ## Directory layout  
   
