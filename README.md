@@ -1,5 +1,10 @@
 # Navigating High-Dimensional Complex Systems with Black-Box Nature via Explainable Learn-then-Optimize
 
+Authors: Ziyuan Gu<sup>†</sup>, Bowei Ru<sup>†</sup>, Yetao Hu, Jinbiao Huo, Mingze Xu, Yang Cao, Zhiyuan Liu<sup>*</sup>, Yuming Guo<sup>**</sup>
+
+<sup>†</sup> equal contribution  
+<sup>*</sup> corresponding author
+
 This repository hosts the full implementation and experimental scripts that accompany the manuscript
 "Navigating High-Dimensional Complex Systems with Black-Box Nature via Explainable Learn-then-Optimize".
 It provides the universal, domain-agnostic **explainable learn-then-optimize (XLO)** framework together
