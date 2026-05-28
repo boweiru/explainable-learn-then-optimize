@@ -1,5 +1,7 @@
 # Navigating High-Dimensional Complex Systems with Black-Box Nature via Explainable Learn-then-Optimize
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20421975.svg)](https://doi.org/10.5281/zenodo.20421975)
+
 Authors: Ziyuan Gu<sup>&dagger;</sup>, Bowei Ru<sup>&dagger;</sup>, Yetao Hu, Jinbiao Huo, Mingze Xu, Yang Cao, Zhiyuan Liu<sup>&#42;</sup>, Yuming Guo<sup>&#42;</sup>
 
 <sup>&dagger;</sup> equal contribution  
@@ -257,3 +259,11 @@ specific configuration paths required to run that scenario's `Running.py`.
 
 All experiments were conducted on a Dell Precision 7875 Tower equipped with an AMD Ryzen Threadripper
 PRO 7995WX 96-core CPU at 2.50 GHz, 64 GB of RAM, and an NVIDIA GeForce RTX 4090 GPU.
+
+## Archived release and DOI
+
+The archived release corresponding to this repository is available on Zenodo:
+
+**DOI:** https://doi.org/10.5281/zenodo.20421975
+
+The Zenodo archive contains the source-code release `Explainable-Learn-then-Optimize-v1.0.0.zip`, the documentation file `README.txt`, and the large Docker image archive `benchmark_complete.tar` required for reproducing the coiled-tube reactor benchmark. The Docker image archive is not stored in this GitHub repository because of its large file size.
