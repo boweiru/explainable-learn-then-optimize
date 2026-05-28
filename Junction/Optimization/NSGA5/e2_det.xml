@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-01-10 11:29:35 by Eclipse SUMO netedit Version 1.12.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="D:\SEU\TLab\华为三期\Intersection_A\IntersectionA.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="D:\SEU\TLab\华为三期\Intersection_A\IntersectionA.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="true"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <additional-files value="D:\SEU\TLab\华为三期\Intersection_A\loop.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <e2Detector id="NBL_0" lane="-94#1_4" pos="82.34" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="NBL_1" lane="-94#1_5" pos="82.40" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="NBR_0" lane="-94#1_0" pos="82.30" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="NBT_0" lane="-94#1_1" pos="82.36" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="NBT_1" lane="-94#1_2" pos="82.42" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="NBT_2" lane="-94#1_3" pos="82.38" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="SBL_0" lane="-155_4" pos="70.23" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="SBL_1" lane="-155_5" pos="70.60" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="SBR_0" lane="-155_0" pos="70.28" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="SBT_0" lane="-155_1" pos="70.55" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="SBT_1" lane="-155_2" pos="70.62" length="50.00" freq="185.00" file="e2_detector.xml"/>
+    <e2Detector id="SBT_2" lane="-155_3" pos="70.58" length="50.00" freq="185.00" file="e2_detector.xml"/>
+	
+	<!--<e2Detector id="NBL_0" lane="-94#1_4" pos="87.34" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="NBL_1" lane="-94#1_5" pos="87.40" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="NBR_0" lane="-94#1_0" pos="87.30" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="NBT_0" lane="-94#1_1" pos="87.36" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="NBT_1" lane="-94#1_2" pos="87.42" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="NBT_2" lane="-94#1_3" pos="87.38" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="SBL_0" lane="-155_4" pos="75.23" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="SBL_1" lane="-155_5" pos="75.60" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="SBR_0" lane="-155_0" pos="75.28" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="SBT_0" lane="-155_1" pos="75.55" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="SBT_1" lane="-155_2" pos="75.62" length="45.00" freq="300.00" file="e2_detector.xml"/>
+    <e2Detector id="SBT_2" lane="-155_3" pos="75.58" length="45.00" freq="300.00" file="e2_detector.xml"/>-->
+</additional>

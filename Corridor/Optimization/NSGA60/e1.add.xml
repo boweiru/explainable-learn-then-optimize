@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-07-21 17:16:45 by Eclipse SUMO netedit Version 1.18.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <inductionLoop id="1_E_SL_0" lane="131279242#5_3" pos="16" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_E_SL_1" lane="131279242#5_2" pos="16" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_E_SL_2" lane="131279242#5_1" pos="16" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_E_SL_3" lane="131279242#5_0" pos="16" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_N_SL_0" lane="128009952#0.1549_3" pos="13" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_N_SL_1" lane="128009952#0.1549_2" pos="13" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_N_SL_2" lane="128009952#0.1549_1" pos="13" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_N_SL_3" lane="128009952#0.1549_0" pos="13" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_S_SL_0" lane="492311562#3_3" pos="28" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_S_SL_1" lane="492311562#3_2" pos="28" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_S_SL_2" lane="492311562#3_1" pos="28" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_S_SL_3" lane="492311562#3_0" pos="28" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_W_SL_0" lane="392530462#1.386_3" pos="29" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_W_SL_1" lane="392530462#1.386_2" pos="29" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_W_SL_2" lane="392530462#1.386_1" pos="29" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="1_W_SL_3" lane="392530462#1.386_0" pos="29" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_E_SL_0" lane="131279242#2.90_0" pos="32" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_E_SL_1" lane="131279242#2.90_1" pos="32" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_E_SL_2" lane="131279242#2.90_2" pos="32" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_E_SL_3" lane="131279242#2.90_3" pos="32" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_S_SL_0" lane="492311567#0.3049_2" pos="40" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_S_SL_1" lane="492311567#0.3049_1" pos="40" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_S_SL_2" lane="492311567#0.3049_0" pos="40" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_W_SL_0" lane="911706840#2_0" pos="56" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_W_SL_1" lane="911706840#2_1" pos="56" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_W_SL_2" lane="911706840#2_2" pos="56" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="2_W_SL_3" lane="911706840#2_3" pos="56" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_E_SL_0" lane="131279242#0.1020.71_0" pos="38" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_E_SL_1" lane="131279242#0.1020.71_1" pos="38" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_E_SL_2" lane="131279242#0.1020.71_2" pos="38" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_E_SL_3" lane="131279242#0.1020.71_3" pos="38" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_E_SL_4" lane="131279242#0.1020.71_4" pos="38" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_N_SL_0" lane="374707236#0.1602_0" pos="41" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_N_SL_1" lane="374707236#0.1602_1" pos="41" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_N_SL_2" lane="374707236#0.1602_2" pos="41" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_S_SL_0" lane="374712321#3_1" pos="18" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_S_SL_1" lane="374712321#3_0" pos="18" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_W_SL_0" lane="911706840#5.92_0" pos="34" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_W_SL_1" lane="911706840#5.92_1" pos="34" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_W_SL_2" lane="911706840#5.92_2" pos="34" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_W_SL_3" lane="911706840#5.92_3" pos="34" freq="160.00" file="e1_out.xml"/>
+    <inductionLoop id="3_W_SL_4" lane="911706840#5.92_4" pos="34" freq="160.00" file="e1_out.xml"/>
+</additional>

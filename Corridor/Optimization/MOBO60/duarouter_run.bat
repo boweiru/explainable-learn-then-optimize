@@ -1,0 +1,1 @@
+duarouter -c duarouter.conf -b 0 -e 86400 --ignore-errors

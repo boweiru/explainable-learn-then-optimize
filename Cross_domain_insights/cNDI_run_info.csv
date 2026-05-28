@@ -1,0 +1,239 @@
+Scenario,Scenario_Display,Algorithm,Run,Num_Pareto,Num_Objectives,n_min,K_eff,Num_Parameters_In_File,Is_Full_Dim_File
+Malaria,Rural malaria transmission,NSGA-Full,0,9,2,5,1,23,True
+Malaria,Rural malaria transmission,NSGA-Full,1,5,2,5,1,23,True
+Malaria,Rural malaria transmission,NSGA-Full,2,10,2,5,2,23,True
+Malaria,Rural malaria transmission,NSGA-Full,3,12,2,5,2,23,True
+Malaria,Rural malaria transmission,NSGA-Full,4,7,2,5,1,23,True
+Malaria,Rural malaria transmission,NSGA-Full,5,12,2,5,2,23,True
+Malaria,Rural malaria transmission,NSGA-Full,6,6,2,5,1,23,True
+Malaria,Rural malaria transmission,NSGA-Full,7,10,2,5,2,23,True
+Malaria,Rural malaria transmission,NSGA-Full,8,13,2,5,2,23,True
+Malaria,Rural malaria transmission,NSGA-Full,9,11,2,5,2,23,True
+Malaria,Rural malaria transmission,MOBO-Full,0,6,2,5,1,23,True
+Malaria,Rural malaria transmission,MOBO-Full,1,5,2,5,1,23,True
+Malaria,Rural malaria transmission,MOBO-Full,2,10,2,5,2,23,True
+Malaria,Rural malaria transmission,MOBO-Full,3,8,2,5,1,23,True
+Malaria,Rural malaria transmission,MOBO-Full,4,6,2,5,1,23,True
+Malaria,Rural malaria transmission,MOBO-Full,5,8,2,5,1,23,True
+Malaria,Rural malaria transmission,MOBO-Full,6,3,2,5,1,23,True
+Malaria,Rural malaria transmission,MOBO-Full,7,8,2,5,1,23,True
+Malaria,Rural malaria transmission,MOBO-Full,8,3,2,5,1,23,True
+Malaria,Rural malaria transmission,MOBO-Full,9,10,2,5,2,23,True
+Malaria,Rural malaria transmission,NSGA-Reduced,0,6,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,1,8,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,2,9,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,3,5,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,4,7,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,5,9,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,6,4,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,7,6,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,8,5,2,5,1,5,False
+Malaria,Rural malaria transmission,NSGA-Reduced,9,8,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,0,5,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,1,7,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,2,9,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,3,3,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,4,5,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,5,5,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,6,4,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,7,4,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,8,3,2,5,1,5,False
+Malaria,Rural malaria transmission,MOBO-Reduced,9,9,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,0,7,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,1,5,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,2,9,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,3,7,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,4,6,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,5,6,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,6,6,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,7,3,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,8,4,2,5,1,5,False
+Malaria,Rural malaria transmission,XLO-Reduced,9,7,2,5,1,5,False
+CitySim,Isolated urban junction,NSGA-Full,0,8,4,8,1,29,True
+CitySim,Isolated urban junction,NSGA-Full,1,9,4,8,1,29,True
+CitySim,Isolated urban junction,NSGA-Full,2,6,4,8,1,29,True
+CitySim,Isolated urban junction,NSGA-Full,3,15,4,8,1,29,True
+CitySim,Isolated urban junction,NSGA-Full,4,26,4,8,3,29,True
+CitySim,Isolated urban junction,NSGA-Full,5,14,4,8,1,29,True
+CitySim,Isolated urban junction,NSGA-Full,6,11,4,8,1,29,True
+CitySim,Isolated urban junction,NSGA-Full,7,11,4,8,1,29,True
+CitySim,Isolated urban junction,NSGA-Full,8,12,4,8,1,29,True
+CitySim,Isolated urban junction,NSGA-Full,9,9,4,8,1,29,True
+CitySim,Isolated urban junction,MOBO-Full,0,39,4,8,4,29,True
+CitySim,Isolated urban junction,MOBO-Full,1,34,4,8,4,29,True
+CitySim,Isolated urban junction,MOBO-Full,2,31,4,8,3,29,True
+CitySim,Isolated urban junction,MOBO-Full,3,30,4,8,3,29,True
+CitySim,Isolated urban junction,MOBO-Full,4,35,4,8,4,29,True
+CitySim,Isolated urban junction,MOBO-Full,5,40,4,8,5,29,True
+CitySim,Isolated urban junction,MOBO-Full,6,39,4,8,4,29,True
+CitySim,Isolated urban junction,MOBO-Full,7,33,4,8,4,29,True
+CitySim,Isolated urban junction,MOBO-Full,8,40,4,8,5,29,True
+CitySim,Isolated urban junction,MOBO-Full,9,20,4,8,2,29,True
+CitySim,Isolated urban junction,NSGA-Reduced,0,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,1,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,2,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,3,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,4,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,5,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,6,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,7,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,8,10,4,8,1,5,False
+CitySim,Isolated urban junction,NSGA-Reduced,9,10,4,8,1,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,0,39,4,8,4,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,1,29,4,8,3,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,2,27,4,8,3,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,3,27,4,8,3,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,4,30,4,8,3,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,5,36,4,8,4,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,6,27,4,8,3,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,7,31,4,8,3,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,8,36,4,8,4,5,False
+CitySim,Isolated urban junction,MOBO-Reduced,9,28,4,8,3,5,False
+CitySim,Isolated urban junction,XLO-Reduced,0,42,4,8,5,5,False
+CitySim,Isolated urban junction,XLO-Reduced,1,38,4,8,4,5,False
+CitySim,Isolated urban junction,XLO-Reduced,2,31,4,8,3,5,False
+CitySim,Isolated urban junction,XLO-Reduced,3,31,4,8,3,5,False
+CitySim,Isolated urban junction,XLO-Reduced,4,41,4,8,5,5,False
+CitySim,Isolated urban junction,XLO-Reduced,5,47,4,8,5,5,False
+CitySim,Isolated urban junction,XLO-Reduced,6,38,4,8,4,5,False
+CitySim,Isolated urban junction,XLO-Reduced,7,30,4,8,3,5,False
+CitySim,Isolated urban junction,XLO-Reduced,8,38,4,8,4,5,False
+CitySim,Isolated urban junction,XLO-Reduced,9,37,4,8,4,5,False
+Reactor,Coiled-tube reactor,NSGA-Full,0,24,2,5,4,50,True
+Reactor,Coiled-tube reactor,NSGA-Full,1,30,2,5,5,50,True
+Reactor,Coiled-tube reactor,NSGA-Full,2,28,2,5,5,50,True
+Reactor,Coiled-tube reactor,NSGA-Full,3,24,2,5,4,50,True
+Reactor,Coiled-tube reactor,NSGA-Full,4,32,2,5,5,50,True
+Reactor,Coiled-tube reactor,MOBO-Full,0,26,2,5,5,50,True
+Reactor,Coiled-tube reactor,MOBO-Full,1,22,2,5,4,50,True
+Reactor,Coiled-tube reactor,MOBO-Full,2,22,2,5,4,50,True
+Reactor,Coiled-tube reactor,MOBO-Full,3,26,2,5,5,50,True
+Reactor,Coiled-tube reactor,MOBO-Full,4,24,2,5,4,50,True
+Reactor,Coiled-tube reactor,NSGA-Reduced,0,10,2,5,2,2,False
+Reactor,Coiled-tube reactor,NSGA-Reduced,1,10,2,5,2,2,False
+Reactor,Coiled-tube reactor,NSGA-Reduced,2,10,2,5,2,2,False
+Reactor,Coiled-tube reactor,NSGA-Reduced,3,10,2,5,2,2,False
+Reactor,Coiled-tube reactor,NSGA-Reduced,4,10,2,5,2,2,False
+Reactor,Coiled-tube reactor,MOBO-Reduced,0,70,2,5,5,2,False
+Reactor,Coiled-tube reactor,MOBO-Reduced,1,61,2,5,5,2,False
+Reactor,Coiled-tube reactor,MOBO-Reduced,2,58,2,5,5,2,False
+Reactor,Coiled-tube reactor,MOBO-Reduced,3,69,2,5,5,2,False
+Reactor,Coiled-tube reactor,MOBO-Reduced,4,77,2,5,5,2,False
+Reactor,Coiled-tube reactor,XLO-Reduced,0,56,2,5,5,2,False
+Reactor,Coiled-tube reactor,XLO-Reduced,1,72,2,5,5,2,False
+Reactor,Coiled-tube reactor,XLO-Reduced,2,63,2,5,5,2,False
+Reactor,Coiled-tube reactor,XLO-Reduced,3,45,2,5,5,2,False
+Reactor,Coiled-tube reactor,XLO-Reduced,4,58,2,5,5,2,False
+Aircraft,Human-powered aircraft,NSGA-Full,0,42,3,6,5,55,True
+Aircraft,Human-powered aircraft,NSGA-Full,1,40,3,6,5,55,True
+Aircraft,Human-powered aircraft,NSGA-Full,2,38,3,6,5,55,True
+Aircraft,Human-powered aircraft,NSGA-Full,3,34,3,6,5,55,True
+Aircraft,Human-powered aircraft,NSGA-Full,4,38,3,6,5,55,True
+Aircraft,Human-powered aircraft,MOBO-Full,0,49,3,6,5,55,True
+Aircraft,Human-powered aircraft,MOBO-Full,1,35,3,6,5,55,True
+Aircraft,Human-powered aircraft,MOBO-Full,2,47,3,6,5,55,True
+Aircraft,Human-powered aircraft,MOBO-Full,3,50,3,6,5,55,True
+Aircraft,Human-powered aircraft,MOBO-Full,4,49,3,6,5,55,True
+Aircraft,Human-powered aircraft,NSGA-Reduced,0,10,3,6,1,5,False
+Aircraft,Human-powered aircraft,NSGA-Reduced,1,10,3,6,1,5,False
+Aircraft,Human-powered aircraft,NSGA-Reduced,2,10,3,6,1,5,False
+Aircraft,Human-powered aircraft,NSGA-Reduced,3,10,3,6,1,5,False
+Aircraft,Human-powered aircraft,NSGA-Reduced,4,10,3,6,1,5,False
+Aircraft,Human-powered aircraft,MOBO-Reduced,0,51,3,6,5,5,False
+Aircraft,Human-powered aircraft,MOBO-Reduced,1,51,3,6,5,5,False
+Aircraft,Human-powered aircraft,MOBO-Reduced,2,54,3,6,5,5,False
+Aircraft,Human-powered aircraft,MOBO-Reduced,3,50,3,6,5,5,False
+Aircraft,Human-powered aircraft,MOBO-Reduced,4,59,3,6,5,5,False
+Aircraft,Human-powered aircraft,XLO-Reduced,0,49,3,6,5,5,False
+Aircraft,Human-powered aircraft,XLO-Reduced,1,34,3,6,5,5,False
+Aircraft,Human-powered aircraft,XLO-Reduced,2,44,3,6,5,5,False
+Aircraft,Human-powered aircraft,XLO-Reduced,3,44,3,6,5,5,False
+Aircraft,Human-powered aircraft,XLO-Reduced,4,30,3,6,5,5,False
+Songshanhu,Urban arterial corridor,NSGA-Full,0,17,4,8,2,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,1,12,4,8,1,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,2,13,4,8,1,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,3,21,4,8,2,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,4,15,4,8,1,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,5,9,4,8,1,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,6,14,4,8,1,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,7,33,4,8,4,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,8,16,4,8,2,60,True
+Songshanhu,Urban arterial corridor,NSGA-Full,9,15,4,8,1,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,0,29,4,8,3,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,1,23,4,8,2,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,2,14,4,8,1,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,3,15,4,8,1,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,4,21,4,8,2,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,5,12,4,8,1,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,6,21,4,8,2,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,7,22,4,8,2,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,8,16,4,8,2,60,True
+Songshanhu,Urban arterial corridor,MOBO-Full,9,15,4,8,1,60,True
+Songshanhu,Urban arterial corridor,NSGA-Reduced,0,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,1,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,2,18,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,3,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,4,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,5,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,6,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,7,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,8,18,4,8,2,9,False
+Songshanhu,Urban arterial corridor,NSGA-Reduced,9,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,0,23,4,8,2,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,1,13,4,8,1,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,2,29,4,8,3,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,3,22,4,8,2,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,4,31,4,8,3,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,5,20,4,8,2,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,6,22,4,8,2,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,7,25,4,8,3,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,8,22,4,8,2,9,False
+Songshanhu,Urban arterial corridor,MOBO-Reduced,9,17,4,8,2,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,0,28,4,8,3,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,1,15,4,8,1,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,2,14,4,8,1,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,3,30,4,8,3,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,4,23,4,8,2,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,5,33,4,8,4,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,6,32,4,8,4,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,7,21,4,8,2,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,8,25,4,8,3,9,False
+Songshanhu,Urban arterial corridor,XLO-Reduced,9,26,4,8,3,9,False
+WFG3,WFG 3,NSGA-Full,0,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,1,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,2,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,3,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,4,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,5,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,6,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,7,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,8,410,5,10,5,100,True
+WFG3,WFG 3,NSGA-Full,9,410,5,10,5,100,True
+WFG3,WFG 3,MOBO-Full,0,449,5,10,5,100,True
+WFG3,WFG 3,MOBO-Full,1,439,5,10,5,100,True
+WFG3,WFG 3,MOBO-Full,2,414,5,10,5,100,True
+WFG3,WFG 3,MOBO-Full,3,382,5,10,5,100,True
+WFG3,WFG 3,MOBO-Full,4,390,5,10,5,100,True
+WFG3,WFG 3,MOBO-Full,5,421,5,10,5,100,True
+WFG3,WFG 3,MOBO-Full,6,404,5,10,5,100,True
+WFG3,WFG 3,MOBO-Full,7,424,5,10,5,100,True
+WFG3,WFG 3,NSGA-Reduced,0,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,1,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,2,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,3,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,4,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,5,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,6,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,7,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,8,10,5,10,1,4,False
+WFG3,WFG 3,NSGA-Reduced,9,10,5,10,1,4,False
+WFG3,WFG 3,MOBO-Reduced,0,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,1,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,2,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,3,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,4,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,5,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,6,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,7,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,8,600,5,10,5,4,False
+WFG3,WFG 3,MOBO-Reduced,9,600,5,10,5,4,False

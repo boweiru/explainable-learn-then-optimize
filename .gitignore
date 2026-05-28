@@ -1,0 +1,14 @@
+# Large archive files
+*.tar
+*.zip
+*.rar
+*.7z
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<routes>
+  <vType accel="2.6492822882090987" carFollowModel="IDM" decel="4.5" delta="4.596571707521183" id="car" length="5" maxSpeed="55.55" minGap="1.0270334498306184" speedDev="0.1" speedFactor="0.8886087840122148" tau="0.3614767468370602" vClass="passenger" emergencyDecel="9" lcStrategic="1.0" lcCooperative="1.0" lcSpeedGain="1.0" lcKeepRight="1.0" lcOvertakeRight="0" lcOpposite="1.0" lcLookaheadLeft="2.0" lcSpeedGainRight="0.1" lcSpeedGainLookahead="0" lcOvertakeDeltaSpeedFactor="0" lcKeepRightAcceptanceTime="-1" lcCooperativeSpeed="1.0" lcAssertive="1.0" jmCrossingGap="10" jmIgnoreFoeProb="0" jmIgnoreFoeSpeed="0" jmIgnoreJunctionFoeProb="0" jmSigmaMinor="0.5" jmStoplineGap="1" jmTimegapMinor="1" impatience="0.0" />
+</routes>
