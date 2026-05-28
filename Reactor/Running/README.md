@@ -34,6 +34,18 @@ docker images | grep benchmark
 
 The Docker image should contain the reactor benchmark environment, including OpenFOAM, the benchmark API, and the Python environment used by the original reactor benchmark code.
 
+## Reactor benchmark Docker image
+
+The Docker image archive required for the coiled-tube reactor benchmark is available from the Zenodo archive:
+
+https://doi.org/10.5281/zenodo.20421975
+
+After downloading `benchmark_complete.tar`, place it in the reactor benchmark working directory and load the Docker image with:
+
+```bash
+docker load -i benchmark_complete.tar
+```
+
 ## Running the CFD benchmark
 
 The script calls the CFD benchmark by creating a Docker container for each function evaluation. Internally, each call executes the following logic:
