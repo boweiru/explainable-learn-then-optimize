@@ -7,7 +7,7 @@ This folder provides the input files and Python wrapper used to run the urban ar
 
 UAV footage collected on 5 June 2025 at Dongguan, China, covers three adjacent signalized intersections. Vehicle trajectories were extracted, stitched and map-matched to an OpenStreetMap-derived network corrected against video. A 15-minute evening peak fragment (17:30–19:30) contains about 1,900 vehicles, including 60 trucks. Detector intervals were aligned with the 160-second signal cycle. The four metrics and WMAPE formulation remain unchanged, but the parameter space expands to 60 dimensions covering both passenger cars and trucks (the previous 29 plus vehicle length).
 
-![Extended Data Fig. 1](F:\JinJixia\Code\Screening-Optimization\GitHub\Corridor\Running\SupFig7.svg)
+![Extended Data Fig. 1](./SupFig7.svg)
 
 ## Directory layout
 
